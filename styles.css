@@ -58,7 +58,10 @@ nav {
   width: 100%;
   margin-inline: auto;
   z-index: 9;
-  background-color: #ece0d4;
+  background-image: radial-gradient(
+    rgba(251, 251, 251, 0.85),
+    rgba(0, 0, 0, 1)
+  );
 }
 
 .nav__header {
